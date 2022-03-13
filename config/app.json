@@ -1,0 +1,17 @@
+{
+    "app_name": "smg",
+    "app_mode": "debug",
+    "app_host": "127.0.0.1",
+    "app_port": "8080",
+    "database":{
+        "driver": "mysql",
+        "user": "root",
+        "password": "garmin",
+        "host": "127.0.0.1",
+        "port": "3306",
+        "db_name": "ginweb",
+        "charset": "utf8",
+        "show_sql": true
+
+    }
+}
